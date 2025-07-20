@@ -14,19 +14,17 @@ Key highlights:
 
 ## Project Structure
 olist-ecommerce-portfolio/
-├── schema.sql
-├── seed_data.sql
-├── indexes.sql
-├── materialized_views.sql
-├── queries/
-│   ├── top_customers.sql
-│   ├── monthly_sales_trends.sql
-│   ├── best_selling_products.sql
-│   ├── rfm_segmentation.sql
-│   └── delivery_performance.sql
-├── performance_analysis/
-│   ├── explain_analyze.md
-│   └── optimizations.md
-├── erd-diagram.png
-├── insights_report.md
-└── README.md
+1. schema.sql
+2. seed_data.sql
+3. indexes.sql
+4. materialized_views.sql
+5. queries/
+    5.1 top_customers.sql
+    5.2 monthly_sales_trends.sql
+    5.3 best_selling_products.sql
+    5.4 rfm_segmentation.sql
+    5.5 delivery_performance.sql
+6. performance_analysis/
+   6.1 explain_analyze.md
+   6.2 optimizations.md
+7. README.md
