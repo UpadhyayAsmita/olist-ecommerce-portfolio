@@ -13,3 +13,20 @@ Key highlights:
 ---
 
 ## Project Structure
+olist-ecommerce-portfolio/
+├── schema.sql
+├── seed_data.sql
+├── indexes.sql
+├── materialized_views.sql
+├── queries/
+│   ├── top_customers.sql
+│   ├── monthly_sales_trends.sql
+│   ├── best_selling_products.sql
+│   ├── rfm_segmentation.sql
+│   └── delivery_performance.sql
+├── performance_analysis/
+│   ├── explain_analyze.md
+│   └── optimizations.md
+├── erd-diagram.png
+├── insights_report.md
+└── README.md
