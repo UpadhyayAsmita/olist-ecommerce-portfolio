@@ -24,7 +24,7 @@ olist-ecommerce-portfolio/
     5.3 best_selling_products.sql
     5.4 rfm_segmentation.sql
     5.5 delivery_performance.sql
-6. performance_analysis/
+7. performance_analysis/
    6.1 explain_analyze.md
    6.2 optimizations.md
-7. README.md
+8. README.md
